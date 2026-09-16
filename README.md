@@ -66,7 +66,7 @@ Topics covered:
 
 ---
 
-### 🎲 Random Number Generation
+### Random Number Generation
 
 Using Python's `random` module:
 
@@ -169,7 +169,7 @@ Topics included:
 
 ---
 
-## 📐 Algorithmic Thinking
+## Algorithmic Thinking
 
 Even these small programs introduced the basic structure of an algorithm:
 
